@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm currently working as a tech lead / fullstack developer (Node/React) at [Salsita](https://www.salsitasoft.com/) on private projects for our clients. 
+I'm currently working as a Senior Software Engineer at Microsoft in a team taking care of keeping memory consumption of Teams in limits.
 
-But besides that I also maintain or contribute to some opensource repos:
+But besides that I also maintain(ed) or contribute(d) to some opensource repos:
 
 * https://github.com/salsita/node-pg-migrate
 * https://github.com/dolezel/react-csv-downloader
@@ -12,7 +12,7 @@ But besides that I also maintain or contribute to some opensource repos:
 
 and more...
 
-Also I had few talkes about JS, Node or React at Salsita company:
+Also I had few talks about JS, Node or React at [Salsita](https://www.salsitasoft.com/) company:
 
 * https://github.com/dolezel/bb-node-performance
 * https://github.com/dolezel/bb-rxjs-react
