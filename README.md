@@ -12,7 +12,7 @@ But besides that I also maintain(ed) or contribute(d) to some opensource repos:
 
 and more...
 
-Also I had few talks about JS, Node or React at [Salsita](https://www.salsitasoft.com/) company:
+Also I had few talks about JS, Node or React at my previous employer - [Salsita](https://www.salsitasoft.com/):
 
 * https://github.com/dolezel/bb-node-performance
 * https://github.com/dolezel/bb-rxjs-react
