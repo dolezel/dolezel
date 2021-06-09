@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working as a Senior Software Engineer at Microsoft in a team taking care of keeping memory consumption of Teams in limits.
+I'm currently working as Senior Software Engineer at Microsoft in a team taking care of keeping memory consumption of Teams in limits.
 
 But besides that I also maintain(ed) or contribute(d) to some opensource repos:
 
